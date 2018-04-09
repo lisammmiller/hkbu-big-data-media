@@ -16,7 +16,7 @@
 </br>alias - e.g. The Shawshank Redemption
 </br>rating - e.g. 9.6
 </br>comment_number - e.g.1009534
-</br>director - e.g.导演: 弗兰克·德拉邦特 Frank Darabont   
+</br>director - e.g.导演: 弗兰克·德拉邦特 Frank Darabont
 </br>year - e.g.1994
 </br>area - e.g.美国
 </br>types - e.g.犯罪 剧情  
