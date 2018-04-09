@@ -1,0 +1,18 @@
+This data contains Douban Movie top 250 list movies scraped from the website. 
+Starting page: https://movie.douban.com/top250
+
+1.From line 4 we can tell that '剧情' are the most popular type of movie.
+
+2.There was a climax of top movies in 2004. 13 movies in 2004 were in the top250 Douban movies.
+
+3.85 '美国' movies were liked by Chinese people among Douban top250 movies.
+
+4. The bar chart shows that other areas even could not catch up half of the popular movies of America. The second is Japan, only 30 movies were in the top250 list.
+(1.png)
+
+5.The rating average of these 250 movies is 8.788. Selected top 10 directors from these above-average movies. The most widely accepted director is Christopher Nolan, 7 films made by him were on the list.
+6. We can see from the scatter chart that the high-scored movies in different years are illustrated. The top two scores of movies are in 1957 and 1994.
+(2.png)(3.png)
+
+
+
